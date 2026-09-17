@@ -68,10 +68,6 @@ This work aligns with **SDG 16**: *Peace, Justice, and Strong Institutions*—sp
 
 ---
 
-## 👨‍💻 Author
 
-* **Kabilesh Rajaselvan**
-  Vellore Institute of Technology, Chennai Campus
-  [LinkedIn](https://www.linkedin.com/in/kabilesh-rajaselvan-3344a7287/)
 
 
